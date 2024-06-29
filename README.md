@@ -1,2 +1,3 @@
-# Placeholder-Repo
-nothing here
+# PLACEHOLDER/BLANK REPO
+
+> nothing here, for discord webhook previews only.
